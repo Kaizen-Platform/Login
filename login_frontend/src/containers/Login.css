@@ -1,0 +1,51 @@
+
+#wwe h2{
+    text-align: center;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 25px;
+}
+
+#wwe {
+   text-align: center;
+   text-align: justify;
+    width: 80%;
+    height: 100px;
+    margin: 0px auto;
+    
+    
+} 
+#wwe ul li{
+    float: left;
+    background-color:rgb(213, 224, 236);
+    color: black ;
+    width : 200px;
+    text-align: left;
+    list-style: none;
+}
+#wwe ul li :hover{ 
+    background-color: rgb(145, 132, 218);
+}
+#wwe {
+    padding: 8px;
+}
+#wwe ul li ul {
+display: none;    
+} 
+
+  
+#wwe ul li:hover > ul{
+    display:block;}  
+#ss {
+    text-align: center;
+    padding-left: 300px;
+}
+#cdatalogo{
+width: 200px; 
+
+position: absolute;
+    top: 10%;
+    left: 20%;
+    margin-top: -50px;
+    margin-left: -50px;}
+    
